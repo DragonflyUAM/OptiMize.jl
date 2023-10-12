@@ -6,4 +6,5 @@
 ```
 add IJulia
 add SymEngine
+add Plots
 ```
